@@ -1,4 +1,5 @@
 [![Yamathcy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamathcy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamathcy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
