@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Yamathcy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamathcy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **yamathcy/yamathcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
